@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="805309b8-5f0b-4430-9b91-c324bba628a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hsa9vrfbXiYIvUp47Two5vEK64" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ryder\Documents\GitHub\fiberoo" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1039" y="336" key="SettingsEditor" timestamp="1600802190003">
+      <screen x="-1080" y="-268" width="1080" height="1920" />
+    </state>
+    <state x="-1039" y="336" key="SettingsEditor/0.0.1920.1080/-1080.-268.1080.1920@-1080.-268.1080.1920" timestamp="1600802190003" />
+    <state x="-877" y="177" width="672" height="678" key="search.everywhere.popup" timestamp="1600804780020">
+      <screen x="-1080" y="-268" width="1080" height="1920" />
+    </state>
+    <state x="-877" y="177" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/-1080.-268.1080.1920@-1080.-268.1080.1920" timestamp="1600804780020" />
+  </component>
+</project>
